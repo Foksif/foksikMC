@@ -4,7 +4,7 @@ plugins {
 
 allprojects {
     group = "me.foksik.foksikmc"
-    version = "1.0.0"
+    version = "1.0.1"
 
     repositories {
         mavenCentral()

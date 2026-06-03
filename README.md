@@ -30,7 +30,8 @@ Each module can be used independently.
 
 ```kotlin
 dependencies {
-    implementation("me.foksik.foksikmc:bootstrap:1.0.0")
+    // com.github.Foksif.foksikMC:<module_name>:<version>
+    implementation("com.github.Foksif.foksikMC:bootstrap:1.0.1")
 }
 ```
 
