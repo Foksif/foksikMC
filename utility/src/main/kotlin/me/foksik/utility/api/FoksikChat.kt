@@ -1,7 +1,9 @@
 package me.foksik.utility.api
 
 import me.foksik.utility.internal.chat.LegacyConverter
+import me.foksik.utility.internal.chat.miniMessage
 import net.kyori.adventure.text.Component
+import net.kyori.adventure.text.format.TextDecoration
 
 object FoksikChat {
 
