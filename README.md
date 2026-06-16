@@ -18,7 +18,7 @@ The ecosystem is split into independent modules:
 - (future) commands → command framework
 - (future) config → configuration system
 - (future) database → persistence layer
-- (future) utils → shared helpers
+- utility → shared helpers
 
 Each module can be used independently.
 
