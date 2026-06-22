@@ -15,7 +15,7 @@ foksikMC is designed to provide reusable building blocks for Minecraft plugins:
 The ecosystem is split into independent modules:
 
 - core-bootstrap → plugin lifecycle + module system
-- utility → shared helpers (chat, colors)
+- utility → shared helpers (chat, colors, time)
 - (future) commands → command framework
 - (future) config → configuration system
 - (future) database → persistence layer
